@@ -1,4 +1,4 @@
-Climber
+Climber - Linux local privilege escalation audit
 =======
 
 Automated auditing tool to check UNIX/Linux systems misconfigurations 
